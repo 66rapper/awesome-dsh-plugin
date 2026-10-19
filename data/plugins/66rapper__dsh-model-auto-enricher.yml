@@ -1,0 +1,6 @@
+url: https://github.com/66rapper/dsh-model-auto-enricher
+name: 66rapper/dsh-model-auto-enricher
+category: model
+description:
+  en: 'Model channel auto-enricher for DeepSeek Harness: restores 1M context windows, max output tokens, [text, image] multimodal input, and {low, high, max} reasoning effort tiers across cordis.patch.yml providers with a timestamped backup before every write, a Settings UI page, and live auto-enrichment when new models are saved.'
+  zh: 'DSH 模型补齐助手：为 cordis.patch.yml 中的全部模型渠道自动补齐百万长上下文、最大输出、多模态发图（[text, image]）与思考强度档位（{low, high, max}），支持设置页新增模型保存后自动监听补齐、写前时间戳备份与可视化管理面板。'
